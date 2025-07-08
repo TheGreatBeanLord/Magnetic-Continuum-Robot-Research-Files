@@ -1,8 +1,7 @@
 README docx's in folders will contain example output images for all relevant scripts
-
-
-
-
+-------------------------------
+-------------------------------
+-------------------------------
 
 README: Dipole Fitting
 
@@ -27,6 +26,9 @@ Does basically the same thing as Non-Normalized_Vectors_RSME, just graphs them w
 
 There are also 2 ansys maxwell files for the FEM simulation of the cylindrical magnet.
 
+-------------------------------
+-------------------------------
+-------------------------------
 
 
 
